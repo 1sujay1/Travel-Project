@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /enquiry.html
+Disallow: /booking.html
+
+# Sitemap URL
+Sitemap: http://bambinoholidays.com/sitemaps.xml
